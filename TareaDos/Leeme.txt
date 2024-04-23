@@ -1,0 +1,8 @@
+Por: Juan Pablo Toro Hurtado
+
+CC: 1001477295
+
+
+Nota:
+
+- En el momento de probar la ejecucion de los archivos python, recuerda cambiar la ruta adsoluta de los archivos.
